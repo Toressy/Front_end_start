@@ -1,0 +1,87 @@
+body{
+    font-family: Arial, 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+    color: #000000;
+    line-height: 1.2;
+}
+
+h1{
+    font-family: Arial Black;
+    font-size: 24 pt;
+    color:  #333399;   
+}
+
+ h2{
+    font-family: Arial;
+    font-size: 20 pt;
+    font-weight: bold;
+    color:  #4f4f71;
+ }
+
+ p{
+    font-size: 14pt;
+ }
+
+ figure{
+    padding: 15px;
+    background-color: #e8e8e8;
+ }
+a{
+    color: #3366cc;
+}
+
+q{
+    font-family: Georgia;
+    font-size: 200%;
+    font-style: italic;
+}
+
+table{
+    border-collapse: collapse;
+    margin-bottom: 15px;
+}
+
+caption {
+    text-align: left;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+thead td {
+    background: #d3ad8b;
+
+}
+tfoot td {
+    background: #e1c6af;
+}
+
+.col-0 {
+    padding: 5px;
+    width: 50px;
+    text-align: left;
+}
+
+.col-1 {
+    width: 450px;
+    padding: 5px;
+    text-align: left;
+}
+
+.col-2 {
+    width: 150px;
+    text-align: center;
+}
+
+.col-3 {
+    width: 150px;
+    padding: 5px;
+    text-align: left;
+}
+
+td{
+    border: 1px solid #000000;
+}
+
+.t2 td{
+    width: 200px;
+    height: 100px;
+}
